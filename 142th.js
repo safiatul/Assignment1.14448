@@ -1,0 +1,1 @@
+"package": "MAJOR.MINOR.PATCH"

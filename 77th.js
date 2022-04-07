@@ -1,0 +1,1 @@
+const a = parseInt("11", 2);
