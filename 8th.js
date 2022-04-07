@@ -1,0 +1,1 @@
+console.log("Alan Peter".length);
